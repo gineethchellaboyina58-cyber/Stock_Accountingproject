@@ -22,8 +22,8 @@ public class AppTest extends BaseClass {
         int rc=xl.rowCount("suppliers");
         test.info("No of rows in supplier sheet "+rc);
         System.out.println("No of rows in supplier sheet "+rc);
-        for (int i=1;i<=rc;i++){
-            test.assignAuthor("Abhishek");
+        for (int i=1;i<=rc;i++){  
+            test.assignAuthor("Jineeth");
             test.assignCategory("Functional Testing");
             String sname=xl.getCellData("suppliers",i,0);
             String address=xl.getCellData("suppliers",i,1);

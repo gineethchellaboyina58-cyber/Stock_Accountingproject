@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-04T15:23:22 IST" name="Default suite" finished-at="2026-03-04T15:24:58 IST" duration-ms="95743">
+  <suite started-at="2026-11-21T18:37:40 IST" name="Default suite" finished-at="2026-11-21T18:39:22 IST" duration-ms="101561">
     <groups>
     </groups>
-    <test started-at="2026-03-04T15:23:22 IST" name="Default test" finished-at="2026-03-04T15:24:58 IST" duration-ms="95743">
+    <test started-at="2026-11-21T18:37:40 IST" name="Default test" finished-at="2026-11-21T18:39:22 IST" duration-ms="101561">
       <class name="driverFactory.AppTest">
-        <test-method is-config="true" signature="setupReport()[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:23:22 IST" name="setupReport" finished-at="2026-03-04T15:23:22 IST" duration-ms="183" status="PASS">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:37:40 IST" name="setupReport" finished-at="2026-11-21T18:37:40 IST" duration-ms="244" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupReport -->
-        <test-method is-config="true" signature="setupBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:23:22 IST" name="setupBrowser" finished-at="2026-03-04T15:23:28 IST" duration-ms="5503" status="PASS">
+        <test-method is-config="true" signature="setupBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:37:40 IST" name="setupBrowser" finished-at="2026-11-21T18:37:48 IST" duration-ms="7486" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBrowser -->
-        <test-method signature="startSupplier()[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:23:28 IST" name="startSupplier" finished-at="2026-03-04T15:24:15 IST" duration-ms="47142" status="PASS">
+        <test-method signature="startSupplier()[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:37:48 IST" name="startSupplier" finished-at="2026-11-21T18:38:35 IST" duration-ms="47353" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startSupplier -->
-        <test-method is-config="true" signature="tearBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:24:15 IST" name="tearBrowser" finished-at="2026-03-04T15:24:16 IST" duration-ms="1340" status="PASS">
+        <test-method is-config="true" signature="tearBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:38:35 IST" name="tearBrowser" finished-at="2026-11-21T18:38:37 IST" duration-ms="2379" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearBrowser -->
-        <test-method is-config="true" signature="setupBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:24:16 IST" name="setupBrowser" finished-at="2026-03-04T15:24:20 IST" duration-ms="4385" status="PASS">
+        <test-method is-config="true" signature="setupBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:38:37 IST" name="setupBrowser" finished-at="2026-11-21T18:38:43 IST" duration-ms="5231" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBrowser -->
-        <test-method signature="startCustomer()[pri:1, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:24:20 IST" name="startCustomer" finished-at="2026-03-04T15:24:57 IST" duration-ms="36442" status="PASS">
+        <test-method signature="startCustomer()[pri:1, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:38:43 IST" name="startCustomer" finished-at="2026-11-21T18:39:19 IST" duration-ms="36840" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startCustomer -->
-        <test-method is-config="true" signature="tearBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:24:57 IST" name="tearBrowser" finished-at="2026-03-04T15:24:58 IST" duration-ms="877" status="PASS">
+        <test-method is-config="true" signature="tearBrowser(org.testng.ITestResult)[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:39:19 IST" name="tearBrowser" finished-at="2026-11-21T18:39:22 IST" duration-ms="2233" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,7 +63,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearBrowser -->
-        <test-method is-config="true" signature="flushReport()[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-03-04T15:24:58 IST" name="flushReport" finished-at="2026-03-04T15:24:58 IST" duration-ms="245" status="PASS">
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:driverFactory.AppTest@4116aac9]" started-at="2026-11-21T18:39:22 IST" name="flushReport" finished-at="2026-11-21T18:39:22 IST" duration-ms="224" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReport -->
